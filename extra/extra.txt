@@ -1,0 +1,1 @@
+como seria para remover contatos de uma agenda de um projeto crud de contatos usando C#

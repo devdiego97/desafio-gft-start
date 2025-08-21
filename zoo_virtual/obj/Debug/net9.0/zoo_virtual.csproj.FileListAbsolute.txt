@@ -1,0 +1,15 @@
+C:\development\dio\desafio-gft-start\zoo_virtual\bin\Debug\net9.0\zoo_virtual.exe
+C:\development\dio\desafio-gft-start\zoo_virtual\bin\Debug\net9.0\zoo_virtual.deps.json
+C:\development\dio\desafio-gft-start\zoo_virtual\bin\Debug\net9.0\zoo_virtual.runtimeconfig.json
+C:\development\dio\desafio-gft-start\zoo_virtual\bin\Debug\net9.0\zoo_virtual.dll
+C:\development\dio\desafio-gft-start\zoo_virtual\bin\Debug\net9.0\zoo_virtual.pdb
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\zoo_virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\zoo_virtual.AssemblyInfoInputs.cache
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\zoo_virtual.AssemblyInfo.cs
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\zoo_virtual.csproj.CoreCompileInputs.cache
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\zoo_virtual.sourcelink.json
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\zoo_virtual.dll
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\refint\zoo_virtual.dll
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\zoo_virtual.pdb
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\zoo_virtual.genruntimeconfig.cache
+C:\development\dio\desafio-gft-start\zoo_virtual\obj\Debug\net9.0\ref\zoo_virtual.dll

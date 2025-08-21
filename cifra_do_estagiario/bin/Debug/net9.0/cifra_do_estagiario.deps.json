@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "cifra_do_estagiario/1.0.0": {
+        "runtime": {
+          "cifra_do_estagiario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cifra_do_estagiario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

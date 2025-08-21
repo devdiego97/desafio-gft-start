@@ -1,0 +1,14 @@
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\bin\Debug\net9.0\cifra_do_estagiario.exe
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\bin\Debug\net9.0\cifra_do_estagiario.deps.json
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\bin\Debug\net9.0\cifra_do_estagiario.runtimeconfig.json
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\bin\Debug\net9.0\cifra_do_estagiario.dll
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\bin\Debug\net9.0\cifra_do_estagiario.pdb
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\obj\Debug\net9.0\cifra_do_estagiario.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\obj\Debug\net9.0\cifra_do_estagiario.AssemblyInfoInputs.cache
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\obj\Debug\net9.0\cifra_do_estagiario.AssemblyInfo.cs
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\obj\Debug\net9.0\cifra_do_estagiario.csproj.CoreCompileInputs.cache
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\obj\Debug\net9.0\cifra_do_estagiario.dll
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\obj\Debug\net9.0\refint\cifra_do_estagiario.dll
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\obj\Debug\net9.0\cifra_do_estagiario.pdb
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\obj\Debug\net9.0\cifra_do_estagiario.genruntimeconfig.cache
+C:\development\dio\desafio-gft-start\cifra_do_estagiario\obj\Debug\net9.0\ref\cifra_do_estagiario.dll
